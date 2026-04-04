@@ -1,6 +1,6 @@
-
 /*
-Link problem : https://leetcode.com/problems/3sum/?envType=problem-list-v2&envId=two-pointers
+Link : https://leetcode.com/problems/3sum/?envType=problem-list-v2&envId=two-pointers
+Tags: Array, Two-Pointer
 */
 
 /*

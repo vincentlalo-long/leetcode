@@ -1,6 +1,6 @@
-
 /*
 Link : https://leetcode.com/problems/merge-sorted-array/?envType=problem-list-v2&envId=two-pointers
+Tags: Array, Two-Pointer
 */
 
 // Solution 1 :
@@ -32,6 +32,7 @@ public:
 Time Complexity : T(n) = O(m+n)
 Space Complexity : S(n) = O(1)
 */
+
 class Solution
 {
 public:
@@ -56,3 +57,5 @@ public:
         {
             nums1.at(endArray--) = nums2.at(endArray2--);
         }
+    }
+};

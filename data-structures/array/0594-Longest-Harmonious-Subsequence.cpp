@@ -1,5 +1,7 @@
+
 /*
 Link  : https://leetcode.com/problems/longest-harmonious-subsequence/description/?envType=problem-list-v2&envId=sliding-window
+Tags  : Array, Hash-Table, Sliding-Window
 */
 // Solution 1 : sliding + sort
 /*
@@ -37,23 +39,25 @@ public:
 Time complexity : O(n)
 Space Complexity : O(n)
 */
+
 class Solution
 {
 public:
     int findLHS(vector<int> &nums)
     {
-        unordered_map<int, int> freqNumber = {};
+        unordered_map<int, int> freq;
         int res = 0;
+
         for (int num : nums)
         {
-            freqNumber[num]++;
+            freq[num]++;
         }
 
-        for (auto &pair : freqNumber)
+        for (auto &pair : freq)
         {
-            if (freqNumber.find(pair.first + 1) != freqNumber.end())
+            if (freq.find(pair.first + 1) != freq.end())
             {
-                res = std::max(res, pair.second + freqNumber[pair.first + 1]); // các số x và x+1 là thành 1 dãy thỏa mãn
+                res = max(res, pair.second + freq[pair.first + 1]);
             }
         }
 

@@ -1,5 +1,6 @@
 /*
 Link : https://leetcode.com/problems/print-in-order/description/
+Tags: Concurrency, Channel
 */
 
 package main

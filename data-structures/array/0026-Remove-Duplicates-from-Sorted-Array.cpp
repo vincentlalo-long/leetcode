@@ -1,6 +1,6 @@
-
 /*
 Link : https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=problem-list-v2&envId=two-pointers
+Tags: Array, Two-Pointer
 */
 
 /*
@@ -14,7 +14,7 @@ public:
     {
         if (nums.empty())
             return 0;
-        // sort(nums.begin(),nums.end());
+
         int j = 0;
         for (int i = 1; i < nums.size(); i++)
         {
