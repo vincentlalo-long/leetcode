@@ -8,9 +8,9 @@
 | Topics | [Array](../README.md#tag-array), [Binary Search](../README.md#tag-binary-search) |
 | Language | C++ |
 | Status | Accepted |
-| Time Spent | 3m 53s |
+| Time Spent | 3s |
 | Attempts | 1st try (Clean AC) |
-| Synced | 2026-10-01T16:37:34.640Z |
+| Synced | 2026-10-04T16:17:23.641Z |
 
 ---
 
@@ -61,5 +61,4 @@
 
 ## Notes
 
-> 💡 **Aha! Moment / Key Insight**:
-> Basic binary search
+_Add your notes here._
