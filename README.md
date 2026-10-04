@@ -7,18 +7,22 @@
 
 | # | Problem | Difficulty | Language |
 |---:|---|---|---|
+| 1 | [Two Sum](./0001-two-sum/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 35 | [Search Insert Position](./0035-search-insert-position/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 70 | [Climbing Stairs](./0070-climbing-stairs/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
+| 118 | [Pascal's Triangle](./0118-pascals-triangle/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 
 ## Browse by Tag
 
 <a id="tag-array"></a>
 
-### Array (1)
+### Array (3)
 
 | Problem | Difficulty |
 |---|---|
+| [1. Two Sum](./0001-two-sum/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [35. Search Insert Position](./0035-search-insert-position/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [118. Pascal's Triangle](./0118-pascals-triangle/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
 <a id="tag-binary-search"></a>
 
@@ -30,11 +34,20 @@
 
 <a id="tag-dynamic-programming"></a>
 
-### Dynamic Programming (1)
+### Dynamic Programming (2)
 
 | Problem | Difficulty |
 |---|---|
 | [70. Climbing Stairs](./0070-climbing-stairs/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [118. Pascal's Triangle](./0118-pascals-triangle/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+
+<a id="tag-hash-table"></a>
+
+### Hash Table (1)
+
+| Problem | Difficulty |
+|---|---|
+| [1. Two Sum](./0001-two-sum/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
 <a id="tag-math"></a>
 
