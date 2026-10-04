@@ -8,6 +8,7 @@
 | # | Problem | Difficulty | Language |
 |---:|---|---|---|
 | 35 | [Search Insert Position](./0035-search-insert-position/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
+| 70 | [Climbing Stairs](./0070-climbing-stairs/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 
 ## Browse by Tag
 
@@ -26,4 +27,28 @@
 | Problem | Difficulty |
 |---|---|
 | [35. Search Insert Position](./0035-search-insert-position/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+
+<a id="tag-dynamic-programming"></a>
+
+### Dynamic Programming (1)
+
+| Problem | Difficulty |
+|---|---|
+| [70. Climbing Stairs](./0070-climbing-stairs/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+
+<a id="tag-math"></a>
+
+### Math (1)
+
+| Problem | Difficulty |
+|---|---|
+| [70. Climbing Stairs](./0070-climbing-stairs/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+
+<a id="tag-memoization"></a>
+
+### Memoization (1)
+
+| Problem | Difficulty |
+|---|---|
+| [70. Climbing Stairs](./0070-climbing-stairs/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 <!-- LEETFLOW:END -->
