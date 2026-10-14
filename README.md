@@ -7,6 +7,7 @@
 
 | # | Problem | Difficulty | Language |
 |---:|---|---|---|
+| 9 | [Palindrome Number](./0009-palindrome-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 35 | [Search Insert Position](./0035-search-insert-position/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 70 | [Climbing Stairs](./0070-climbing-stairs/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 100 | [Same Tree](./0100-same-tree/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
@@ -63,10 +64,11 @@
 
 <a id="tag-math"></a>
 
-### Math (1)
+### Math (2)
 
 | Problem | Difficulty |
 |---|---|
+| [9. Palindrome Number](./0009-palindrome-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [70. Climbing Stairs](./0070-climbing-stairs/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
 <a id="tag-memoization"></a>
