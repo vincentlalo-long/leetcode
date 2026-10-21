@@ -13,6 +13,7 @@
 | 35 | [Search Insert Position](./0035-search-insert-position/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 70 | [Climbing Stairs](./0070-climbing-stairs/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 100 | [Same Tree](./0100-same-tree/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
+| 509 | [Fibonacci Number](./0509-fibonacci-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 
 ## Browse by Tag
 
@@ -75,12 +76,13 @@
 
 <a id="tag-dynamic-programming"></a>
 
-### Dynamic Programming (2)
+### Dynamic Programming (3)
 
 | Problem | Difficulty |
 |---|---|
 | [22. Generate Parentheses](./0022-generate-parentheses/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [70. Climbing Stairs](./0070-climbing-stairs/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [509. Fibonacci Number](./0509-fibonacci-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
 <a id="tag-hash-table"></a>
 
@@ -92,20 +94,30 @@
 
 <a id="tag-math"></a>
 
-### Math (2)
+### Math (3)
 
 | Problem | Difficulty |
 |---|---|
 | [9. Palindrome Number](./0009-palindrome-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [70. Climbing Stairs](./0070-climbing-stairs/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [509. Fibonacci Number](./0509-fibonacci-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
 <a id="tag-memoization"></a>
 
-### Memoization (1)
+### Memoization (2)
 
 | Problem | Difficulty |
 |---|---|
 | [70. Climbing Stairs](./0070-climbing-stairs/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [509. Fibonacci Number](./0509-fibonacci-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+
+<a id="tag-recursion"></a>
+
+### Recursion (1)
+
+| Problem | Difficulty |
+|---|---|
+| [509. Fibonacci Number](./0509-fibonacci-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
 <a id="tag-string"></a>
 
