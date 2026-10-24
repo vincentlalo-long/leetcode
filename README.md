@@ -13,6 +13,7 @@
 | 35 | [Search Insert Position](./0035-search-insert-position/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 70 | [Climbing Stairs](./0070-climbing-stairs/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 100 | [Same Tree](./0100-same-tree/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
+| 206 | [Reverse Linked List](./0206-reverse-linked-list/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 486 | [Predict the Winner](./0486-predict-the-winner/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 509 | [Fibonacci Number](./0509-fibonacci-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
@@ -130,6 +131,14 @@
 |---|---|
 | [1025. Divisor Game](./1025-divisor-game/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
+<a id="tag-linked-list"></a>
+
+### Linked List (1)
+
+| Problem | Difficulty |
+|---|---|
+| [206. Reverse Linked List](./0206-reverse-linked-list/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+
 <a id="tag-math"></a>
 
 ### Math (6)
@@ -162,10 +171,11 @@
 
 <a id="tag-recursion"></a>
 
-### Recursion (2)
+### Recursion (3)
 
 | Problem | Difficulty |
 |---|---|
+| [206. Reverse Linked List](./0206-reverse-linked-list/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [486. Predict the Winner](./0486-predict-the-winner/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [509. Fibonacci Number](./0509-fibonacci-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
