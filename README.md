@@ -17,6 +17,7 @@
 | 486 | [Predict the Winner](./0486-predict-the-winner/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 509 | [Fibonacci Number](./0509-fibonacci-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 1025 | [Divisor Game](./1025-divisor-game/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
+| 2409 | [Count Days Spent Together](./2409-count-days-spent-together/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 2879 | [Display the First Three Rows](./2879-display-the-first-three-rows/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | Python3 |
 | 3942 | [Minimum Operations to Sort a Permutation](./3942-minimum-operations-to-sort-a-permutation/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 
@@ -131,7 +132,7 @@
 
 <a id="tag-math"></a>
 
-### Math (5)
+### Math (6)
 
 | Problem | Difficulty |
 |---|---|
@@ -140,6 +141,7 @@
 | [486. Predict the Winner](./0486-predict-the-winner/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [509. Fibonacci Number](./0509-fibonacci-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1025. Divisor Game](./1025-divisor-game/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [2409. Count Days Spent Together](./2409-count-days-spent-together/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
 <a id="tag-memoization"></a>
 
@@ -177,12 +179,13 @@
 
 <a id="tag-string"></a>
 
-### String (2)
+### String (3)
 
 | Problem | Difficulty |
 |---|---|
 | [17. Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [22. Generate Parentheses](./0022-generate-parentheses/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
+| [2409. Count Days Spent Together](./2409-count-days-spent-together/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
 <a id="tag-tree"></a>
 
