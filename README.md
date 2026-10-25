@@ -14,6 +14,7 @@
 | 70 | [Climbing Stairs](./0070-climbing-stairs/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 100 | [Same Tree](./0100-same-tree/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 206 | [Reverse Linked List](./0206-reverse-linked-list/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
+| 238 | [Product of Array Except Self](./0238-product-of-array-except-self/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 486 | [Predict the Winner](./0486-predict-the-winner/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 509 | [Fibonacci Number](./0509-fibonacci-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
@@ -26,11 +27,12 @@
 
 <a id="tag-array"></a>
 
-### Array (4)
+### Array (5)
 
 | Problem | Difficulty |
 |---|---|
 | [35. Search Insert Position](./0035-search-insert-position/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [238. Product of Array Except Self](./0238-product-of-array-except-self/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [349. Intersection of Two Arrays](./0349-intersection-of-two-arrays/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [486. Predict the Winner](./0486-predict-the-winner/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3942. Minimum Operations to Sort a Permutation](./3942-minimum-operations-to-sort-a-permutation/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
@@ -168,6 +170,14 @@
 | Problem | Difficulty |
 |---|---|
 | [486. Predict the Winner](./0486-predict-the-winner/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
+
+<a id="tag-prefix-sum"></a>
+
+### Prefix Sum (1)
+
+| Problem | Difficulty |
+|---|---|
+| [238. Product of Array Except Self](./0238-product-of-array-except-self/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 
 <a id="tag-recursion"></a>
 
