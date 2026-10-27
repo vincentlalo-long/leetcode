@@ -24,6 +24,7 @@
 | 2574 | [Left and Right Sum Differences](./2574-left-and-right-sum-differences/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 2879 | [Display the First Three Rows](./2879-display-the-first-three-rows/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | Python3 |
 | 3942 | [Minimum Operations to Sort a Permutation](./3942-minimum-operations-to-sort-a-permutation/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
+| 3963 | [Create Grid With Exactly One Path](./3963-create-grid-with-exactly-one-path/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 
 ## Browse by Tag
 
