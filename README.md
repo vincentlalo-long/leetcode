@@ -23,6 +23,7 @@
 | 2409 | [Count Days Spent Together](./2409-count-days-spent-together/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 2574 | [Left and Right Sum Differences](./2574-left-and-right-sum-differences/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 2879 | [Display the First Three Rows](./2879-display-the-first-three-rows/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | Python3 |
+| 3882 | [Minimum XOR Path in a Grid](./3882-minimum-xor-path-in-a-grid/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3942 | [Minimum Operations to Sort a Permutation](./3942-minimum-operations-to-sort-a-permutation/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3963 | [Create Grid With Exactly One Path](./3963-create-grid-with-exactly-one-path/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 3988 | [Create Grid With Exactly K Paths I](./3988-create-grid-with-exactly-k-paths-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
@@ -31,7 +32,7 @@
 
 <a id="tag-array"></a>
 
-### Array (8)
+### Array (9)
 
 | Problem | Difficulty |
 |---|---|
@@ -41,6 +42,7 @@
 | [486. Predict the Winner](./0486-predict-the-winner/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [1991. Find the Middle Index in Array](./1991-find-the-middle-index-in-array/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2574. Left and Right Sum Differences](./2574-left-and-right-sum-differences/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [3882. Minimum XOR Path in a Grid](./3882-minimum-xor-path-in-a-grid/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3942. Minimum Operations to Sort a Permutation](./3942-minimum-operations-to-sort-a-permutation/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3988. Create Grid With Exactly K Paths I](./3988-create-grid-with-exactly-k-paths-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 
@@ -69,6 +71,14 @@
 | Problem | Difficulty |
 |---|---|
 | [100. Same Tree](./0100-same-tree/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+
+<a id="tag-bit-manipulation"></a>
+
+### Bit Manipulation (1)
+
+| Problem | Difficulty |
+|---|---|
+| [3882. Minimum XOR Path in a Grid](./3882-minimum-xor-path-in-a-grid/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 
 <a id="tag-bracket-sequences"></a>
 
@@ -112,7 +122,7 @@
 
 <a id="tag-dynamic-programming"></a>
 
-### Dynamic Programming (5)
+### Dynamic Programming (6)
 
 | Problem | Difficulty |
 |---|---|
@@ -121,6 +131,7 @@
 | [486. Predict the Winner](./0486-predict-the-winner/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [509. Fibonacci Number](./0509-fibonacci-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1025. Divisor Game](./1025-divisor-game/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [3882. Minimum XOR Path in a Grid](./3882-minimum-xor-path-in-a-grid/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 
 <a id="tag-game-theory"></a>
 
@@ -172,10 +183,11 @@
 
 <a id="tag-matrix"></a>
 
-### Matrix (1)
+### Matrix (2)
 
 | Problem | Difficulty |
 |---|---|
+| [3882. Minimum XOR Path in a Grid](./3882-minimum-xor-path-in-a-grid/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3988. Create Grid With Exactly K Paths I](./3988-create-grid-with-exactly-k-paths-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 
 <a id="tag-memoization"></a>
