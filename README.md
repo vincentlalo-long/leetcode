@@ -19,6 +19,7 @@
 | 486 | [Predict the Winner](./0486-predict-the-winner/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 509 | [Fibonacci Number](./0509-fibonacci-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 1025 | [Divisor Game](./1025-divisor-game/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
+| 1768 | [Merge Strings Alternately](./1768-merge-strings-alternately/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 1991 | [Find the Middle Index in Array](./1991-find-the-middle-index-in-array/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 2089 | [Find Target Indices After Sorting Array](./2089-find-target-indices-after-sorting-array/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 2409 | [Count Days Spent Together](./2409-count-days-spent-together/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
@@ -245,12 +246,13 @@
 
 <a id="tag-string"></a>
 
-### String (3)
+### String (4)
 
 | Problem | Difficulty |
 |---|---|
 | [17. Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [22. Generate Parentheses](./0022-generate-parentheses/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
+| [1768. Merge Strings Alternately](./1768-merge-strings-alternately/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2409. Count Days Spent Together](./2409-count-days-spent-together/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
 <a id="tag-tree"></a>
@@ -263,11 +265,12 @@
 
 <a id="tag-two-pointers"></a>
 
-### Two Pointers (2)
+### Two Pointers (3)
 
 | Problem | Difficulty |
 |---|---|
 | [349. Intersection of Two Arrays](./0349-intersection-of-two-arrays/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [1768. Merge Strings Alternately](./1768-merge-strings-alternately/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2824. Count Pairs Whose Sum is Less than Target](./2824-count-pairs-whose-sum-is-less-than-target/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
 <a id="tag-zero-sum-game"></a>
