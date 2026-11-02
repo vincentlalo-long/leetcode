@@ -7,12 +7,10 @@
 | Difficulty | Easy |
 | Topics | [Array](../README.md#tag-array), [Two Pointers](../README.md#tag-two-pointers) |
 | Language | C++ |
-| Time Complexity | `O(N)` |
-| Space Complexity | `O(N)` |
 | Status | Accepted |
-| Time Spent | 6m 19s |
+| Time Spent | 10m 52s |
 | Attempts | 1st try (Clean AC) |
-| Synced | 2026-11-02T12:57:49.907Z |
+| Synced | 2026-11-02T13:19:00.922Z |
 
 ---
 
@@ -43,11 +41,20 @@
 
 ---
 
-## Solution
+## Solutions
+
+### Default
 
 [`move-zeroes.cpp`](./move-zeroes.cpp)
 
-## Notes
+- **Time**: `O(N)`
+- **Space**: `O(N)`
 
-> 💡 **Aha! Moment / Key Insight**:
-> Not Optimization
+> 💡 Not Optimization
+
+### Two Pointer
+
+[`move-zeroes-two-pointer.cpp`](./move-zeroes-two-pointer.cpp)
+
+- **Time**: `O(N)`
+- **Space**: `O(1)`
