@@ -21,6 +21,7 @@
 | 486 | [Predict the Winner](./0486-predict-the-winner/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 509 | [Fibonacci Number](./0509-fibonacci-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 605 | [Can Place Flowers](./0605-can-place-flowers/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
+| 724 | [Find Pivot Index](./0724-find-pivot-index/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 1025 | [Divisor Game](./1025-divisor-game/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 1431 | [Kids With the Greatest Number of Candies](./1431-kids-with-the-greatest-number-of-candies/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 1732 | [Find the Highest Altitude](./1732-find-the-highest-altitude/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
@@ -40,7 +41,7 @@
 
 <a id="tag-array"></a>
 
-### Array (15)
+### Array (16)
 
 | Problem | Difficulty |
 |---|---|
@@ -50,6 +51,7 @@
 | [349. Intersection of Two Arrays](./0349-intersection-of-two-arrays/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [486. Predict the Winner](./0486-predict-the-winner/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [605. Can Place Flowers](./0605-can-place-flowers/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [724. Find Pivot Index](./0724-find-pivot-index/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1431. Kids With the Greatest Number of Candies](./1431-kids-with-the-greatest-number-of-candies/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1732. Find the Highest Altitude](./1732-find-the-highest-altitude/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1991. Find the Middle Index in Array](./1991-find-the-middle-index-in-array/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
@@ -233,11 +235,12 @@
 
 <a id="tag-prefix-sum"></a>
 
-### Prefix Sum (4)
+### Prefix Sum (5)
 
 | Problem | Difficulty |
 |---|---|
 | [238. Product of Array Except Self](./0238-product-of-array-except-self/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
+| [724. Find Pivot Index](./0724-find-pivot-index/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1732. Find the Highest Altitude](./1732-find-the-highest-altitude/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1991. Find the Middle Index in Array](./1991-find-the-middle-index-in-array/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2574. Left and Right Sum Differences](./2574-left-and-right-sum-differences/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
