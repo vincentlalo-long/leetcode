@@ -1,6 +1,6 @@
 # [35. Search Insert Position](https://leetcode.com/problems/search-insert-position)
 
-> ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square)
+> ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) ![Top Interview 150](https://img.shields.io/badge/Roadmap-Top%20Interview%20150-ef4743?style=flat-square) ![Top 100 Liked](https://img.shields.io/badge/Roadmap-Top%20100%20Liked-1a7f37?style=flat-square)
 
 | Property | Value |
 |---|---|
@@ -8,9 +8,9 @@
 | Topics | [Array](../README.md#tag-array), [Binary Search](../README.md#tag-binary-search) |
 | Language | C++ |
 | Status | Accepted |
-| Time Spent | 3s |
+| Time Spent | 3m 41s |
 | Attempts | 1st try (Clean AC) |
-| Synced | 2026-10-04T16:17:23.641Z |
+| Synced | 2026-11-05T13:56:24.476Z |
 
 ---
 
@@ -55,10 +55,11 @@
 
 ---
 
-## Solution
+## Solutions
 
-[`search-insert-position.cpp`](./search-insert-position.cpp)
+### Binary Search
 
-## Notes
+[`search-insert-position-binary-search.cpp`](./search-insert-position-binary-search.cpp)
 
-_Add your notes here._
+- **Time**: `O(log N)`
+- **Space**: `O(1)`
