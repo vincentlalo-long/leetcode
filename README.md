@@ -27,6 +27,7 @@
 | 724 | [Find Pivot Index](./0724-find-pivot-index/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 744 | [Find Smallest Letter Greater Than Target](./0744-find-smallest-letter-greater-than-target/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 1025 | [Divisor Game](./1025-divisor-game/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
+| 1351 | [Count Negative Numbers in a Sorted Matrix](./1351-count-negative-numbers-in-a-sorted-matrix/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 1431 | [Kids With the Greatest Number of Candies](./1431-kids-with-the-greatest-number-of-candies/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 1732 | [Find the Highest Altitude](./1732-find-the-highest-altitude/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 1768 | [Merge Strings Alternately](./1768-merge-strings-alternately/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
@@ -45,7 +46,7 @@
 
 <a id="tag-array"></a>
 
-### Array (19)
+### Array (20)
 
 | Problem | Difficulty |
 |---|---|
@@ -59,6 +60,7 @@
 | [704. Binary Search](./0704-binary-search/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [724. Find Pivot Index](./0724-find-pivot-index/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [744. Find Smallest Letter Greater Than Target](./0744-find-smallest-letter-greater-than-target/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [1351. Count Negative Numbers in a Sorted Matrix](./1351-count-negative-numbers-in-a-sorted-matrix/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1431. Kids With the Greatest Number of Candies](./1431-kids-with-the-greatest-number-of-candies/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1732. Find the Highest Altitude](./1732-find-the-highest-altitude/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1991. Find the Middle Index in Array](./1991-find-the-middle-index-in-array/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
@@ -80,7 +82,7 @@
 
 <a id="tag-binary-search"></a>
 
-### Binary Search (6)
+### Binary Search (7)
 
 | Problem | Difficulty |
 |---|---|
@@ -88,6 +90,7 @@
 | [349. Intersection of Two Arrays](./0349-intersection-of-two-arrays/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [704. Binary Search](./0704-binary-search/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [744. Find Smallest Letter Greater Than Target](./0744-find-smallest-letter-greater-than-target/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [1351. Count Negative Numbers in a Sorted Matrix](./1351-count-negative-numbers-in-a-sorted-matrix/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2089. Find Target Indices After Sorting Array](./2089-find-target-indices-after-sorting-array/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2824. Count Pairs Whose Sum is Less than Target](./2824-count-pairs-whose-sum-is-less-than-target/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
@@ -220,10 +223,11 @@
 
 <a id="tag-matrix"></a>
 
-### Matrix (2)
+### Matrix (3)
 
 | Problem | Difficulty |
 |---|---|
+| [1351. Count Negative Numbers in a Sorted Matrix](./1351-count-negative-numbers-in-a-sorted-matrix/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3882. Minimum XOR Path in a Grid](./3882-minimum-xor-path-in-a-grid/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3988. Create Grid With Exactly K Paths I](./3988-create-grid-with-exactly-k-paths-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 
