@@ -16,6 +16,7 @@
 | 100 | [Same Tree](./0100-same-tree/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 206 | [Reverse Linked List](./0206-reverse-linked-list/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 238 | [Product of Array Except Self](./0238-product-of-array-except-self/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
+| 278 | [First Bad Version](./0278-first-bad-version/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 283 | [Move Zeroes](./0283-move-zeroes/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 345 | [Reverse Vowels of a String](./0345-reverse-vowels-of-a-string/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
@@ -83,11 +84,12 @@
 
 <a id="tag-binary-search"></a>
 
-### Binary Search (8)
+### Binary Search (9)
 
 | Problem | Difficulty |
 |---|---|
 | [35. Search Insert Position](./0035-search-insert-position/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [278. First Bad Version](./0278-first-bad-version/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [349. Intersection of Two Arrays](./0349-intersection-of-two-arrays/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [374. Guess Number Higher or Lower](./0374-guess-number-higher-or-lower/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [704. Binary Search](./0704-binary-search/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
@@ -203,10 +205,11 @@
 
 <a id="tag-interactive"></a>
 
-### Interactive (1)
+### Interactive (2)
 
 | Problem | Difficulty |
 |---|---|
+| [278. First Bad Version](./0278-first-bad-version/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [374. Guess Number Higher or Lower](./0374-guess-number-higher-or-lower/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
 <a id="tag-linked-list"></a>
