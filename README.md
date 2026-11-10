@@ -29,6 +29,7 @@
 | 704 | [Binary Search](./0704-binary-search/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 724 | [Find Pivot Index](./0724-find-pivot-index/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 744 | [Find Smallest Letter Greater Than Target](./0744-find-smallest-letter-greater-than-target/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
+| 746 | [Min Cost Climbing Stairs](./0746-min-cost-climbing-stairs/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 1025 | [Divisor Game](./1025-divisor-game/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](./1351-count-negative-numbers-in-a-sorted-matrix/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 1431 | [Kids With the Greatest Number of Candies](./1431-kids-with-the-greatest-number-of-candies/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
@@ -51,7 +52,7 @@
 
 <a id="tag-array"></a>
 
-### Array (21)
+### Array (22)
 
 | Problem | Difficulty |
 |---|---|
@@ -65,6 +66,7 @@
 | [704. Binary Search](./0704-binary-search/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [724. Find Pivot Index](./0724-find-pivot-index/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [744. Find Smallest Letter Greater Than Target](./0744-find-smallest-letter-greater-than-target/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [746. Min Cost Climbing Stairs](./0746-min-cost-climbing-stairs/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1351. Count Negative Numbers in a Sorted Matrix](./1351-count-negative-numbers-in-a-sorted-matrix/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1431. Kids With the Greatest Number of Candies](./1431-kids-with-the-greatest-number-of-candies/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1732. Find the Highest Altitude](./1732-find-the-highest-altitude/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
@@ -161,7 +163,7 @@
 
 <a id="tag-dynamic-programming"></a>
 
-### Dynamic Programming (9)
+### Dynamic Programming (10)
 
 | Problem | Difficulty |
 |---|---|
@@ -170,6 +172,7 @@
 | [392. Is Subsequence](./0392-is-subsequence/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [486. Predict the Winner](./0486-predict-the-winner/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [509. Fibonacci Number](./0509-fibonacci-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [746. Min Cost Climbing Stairs](./0746-min-cost-climbing-stairs/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1025. Divisor Game](./1025-divisor-game/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3693. Climbing Stairs II](./3693-climbing-stairs-ii/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3751. Total Waviness of Numbers in Range I](./3751-total-waviness-of-numbers-in-range-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
