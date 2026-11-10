@@ -40,6 +40,7 @@
 | 2574 | [Left and Right Sum Differences](./2574-left-and-right-sum-differences/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 2824 | [Count Pairs Whose Sum is Less than Target](./2824-count-pairs-whose-sum-is-less-than-target/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 2879 | [Display the First Three Rows](./2879-display-the-first-three-rows/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | Python3 |
+| 3693 | [Climbing Stairs II](./3693-climbing-stairs-ii/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3751 | [Total Waviness of Numbers in Range I](./3751-total-waviness-of-numbers-in-range-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3882 | [Minimum XOR Path in a Grid](./3882-minimum-xor-path-in-a-grid/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3942 | [Minimum Operations to Sort a Permutation](./3942-minimum-operations-to-sort-a-permutation/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
@@ -50,7 +51,7 @@
 
 <a id="tag-array"></a>
 
-### Array (20)
+### Array (21)
 
 | Problem | Difficulty |
 |---|---|
@@ -71,6 +72,7 @@
 | [2089. Find Target Indices After Sorting Array](./2089-find-target-indices-after-sorting-array/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2574. Left and Right Sum Differences](./2574-left-and-right-sum-differences/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2824. Count Pairs Whose Sum is Less than Target](./2824-count-pairs-whose-sum-is-less-than-target/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [3693. Climbing Stairs II](./3693-climbing-stairs-ii/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3882. Minimum XOR Path in a Grid](./3882-minimum-xor-path-in-a-grid/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3942. Minimum Operations to Sort a Permutation](./3942-minimum-operations-to-sort-a-permutation/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3988. Create Grid With Exactly K Paths I](./3988-create-grid-with-exactly-k-paths-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
@@ -159,7 +161,7 @@
 
 <a id="tag-dynamic-programming"></a>
 
-### Dynamic Programming (8)
+### Dynamic Programming (9)
 
 | Problem | Difficulty |
 |---|---|
@@ -169,6 +171,7 @@
 | [486. Predict the Winner](./0486-predict-the-winner/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [509. Fibonacci Number](./0509-fibonacci-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1025. Divisor Game](./1025-divisor-game/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [3693. Climbing Stairs II](./3693-climbing-stairs-ii/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3751. Total Waviness of Numbers in Range I](./3751-total-waviness-of-numbers-in-range-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3882. Minimum XOR Path in a Grid](./3882-minimum-xor-path-in-a-grid/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 
