@@ -16,6 +16,7 @@
 | 100 | [Same Tree](./0100-same-tree/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 121 | [Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 206 | [Reverse Linked List](./0206-reverse-linked-list/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
+| 209 | [Minimum Size Subarray Sum](./0209-minimum-size-subarray-sum/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 238 | [Product of Array Except Self](./0238-product-of-array-except-self/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 278 | [First Bad Version](./0278-first-bad-version/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 283 | [Move Zeroes](./0283-move-zeroes/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
@@ -56,13 +57,14 @@
 
 <a id="tag-array"></a>
 
-### Array (25)
+### Array (26)
 
 | Problem | Difficulty |
 |---|---|
 | [11. Container With Most Water](./0011-container-with-most-water/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [35. Search Insert Position](./0035-search-insert-position/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [121. Best Time to Buy and Sell Stock](./0121-best-time-to-buy-and-sell-stock/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [209. Minimum Size Subarray Sum](./0209-minimum-size-subarray-sum/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [238. Product of Array Except Self](./0238-product-of-array-except-self/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [283. Move Zeroes](./0283-move-zeroes/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [349. Intersection of Two Arrays](./0349-intersection-of-two-arrays/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
@@ -97,11 +99,12 @@
 
 <a id="tag-binary-search"></a>
 
-### Binary Search (10)
+### Binary Search (11)
 
 | Problem | Difficulty |
 |---|---|
 | [35. Search Insert Position](./0035-search-insert-position/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [209. Minimum Size Subarray Sum](./0209-minimum-size-subarray-sum/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [278. First Bad Version](./0278-first-bad-version/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [349. Intersection of Two Arrays](./0349-intersection-of-two-arrays/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [367. Valid Perfect Square](./0367-valid-perfect-square/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
@@ -293,10 +296,11 @@
 
 <a id="tag-prefix-sum"></a>
 
-### Prefix Sum (6)
+### Prefix Sum (7)
 
 | Problem | Difficulty |
 |---|---|
+| [209. Minimum Size Subarray Sum](./0209-minimum-size-subarray-sum/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [238. Product of Array Except Self](./0238-product-of-array-except-self/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [724. Find Pivot Index](./0724-find-pivot-index/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1732. Find the Highest Altitude](./1732-find-the-highest-altitude/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
@@ -316,10 +320,11 @@
 
 <a id="tag-sliding-window"></a>
 
-### Sliding Window (1)
+### Sliding Window (2)
 
 | Problem | Difficulty |
 |---|---|
+| [209. Minimum Size Subarray Sum](./0209-minimum-size-subarray-sum/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3364. Minimum Positive Sum Subarray](./3364-minimum-positive-sum-subarray/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
 <a id="tag-sorting"></a>
