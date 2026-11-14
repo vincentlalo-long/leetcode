@@ -8,9 +8,9 @@
 | Topics | [Array](../README.md#tag-array), [Binary Search](../README.md#tag-binary-search), [Sliding Window](../README.md#tag-sliding-window), [Prefix Sum](../README.md#tag-prefix-sum) |
 | Language | C++ |
 | Status | Accepted |
-| Time Spent | 22m 16s |
+| Time Spent | 26m 10s |
 | Attempts | 1st try (Clean AC) |
-| Synced | 2026-11-14T04:15:09.335Z |
+| Synced | 2026-11-14T04:19:02.990Z |
 
 ---
 
@@ -63,3 +63,10 @@
 
 - **Time**: `O(N log N)`
 - **Space**: `O(N)`
+
+### Sliding Window
+
+[`minimum-size-subarray-sum-sliding-window.cpp`](./minimum-size-subarray-sum-sliding-window.cpp)
+
+- **Time**: `O(N)`
+- **Space**: `O(1)`
