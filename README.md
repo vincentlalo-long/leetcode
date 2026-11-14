@@ -43,6 +43,7 @@
 | 2824 | [Count Pairs Whose Sum is Less than Target](./2824-count-pairs-whose-sum-is-less-than-target/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 2879 | [Display the First Three Rows](./2879-display-the-first-three-rows/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | Python3 |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
+| 3364 | [Minimum Positive Sum Subarray](./3364-minimum-positive-sum-subarray/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 3693 | [Climbing Stairs II](./3693-climbing-stairs-ii/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3751 | [Total Waviness of Numbers in Range I](./3751-total-waviness-of-numbers-in-range-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3789 | [Minimum Cost to Acquire Required Items](./3789-minimum-cost-to-acquire-required-items/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
@@ -55,7 +56,7 @@
 
 <a id="tag-array"></a>
 
-### Array (24)
+### Array (25)
 
 | Problem | Difficulty |
 |---|---|
@@ -79,6 +80,7 @@
 | [2574. Left and Right Sum Differences](./2574-left-and-right-sum-differences/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2824. Count Pairs Whose Sum is Less than Target](./2824-count-pairs-whose-sum-is-less-than-target/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](./3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [3364. Minimum Positive Sum Subarray](./3364-minimum-positive-sum-subarray/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3693. Climbing Stairs II](./3693-climbing-stairs-ii/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3882. Minimum XOR Path in a Grid](./3882-minimum-xor-path-in-a-grid/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3942. Minimum Operations to Sort a Permutation](./3942-minimum-operations-to-sort-a-permutation/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
@@ -291,7 +293,7 @@
 
 <a id="tag-prefix-sum"></a>
 
-### Prefix Sum (5)
+### Prefix Sum (6)
 
 | Problem | Difficulty |
 |---|---|
@@ -300,6 +302,7 @@
 | [1732. Find the Highest Altitude](./1732-find-the-highest-altitude/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1991. Find the Middle Index in Array](./1991-find-the-middle-index-in-array/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2574. Left and Right Sum Differences](./2574-left-and-right-sum-differences/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [3364. Minimum Positive Sum Subarray](./3364-minimum-positive-sum-subarray/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
 <a id="tag-recursion"></a>
 
@@ -310,6 +313,14 @@
 | [206. Reverse Linked List](./0206-reverse-linked-list/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [486. Predict the Winner](./0486-predict-the-winner/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [509. Fibonacci Number](./0509-fibonacci-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+
+<a id="tag-sliding-window"></a>
+
+### Sliding Window (1)
+
+| Problem | Difficulty |
+|---|---|
+| [3364. Minimum Positive Sum Subarray](./3364-minimum-positive-sum-subarray/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
 <a id="tag-sorting"></a>
 
