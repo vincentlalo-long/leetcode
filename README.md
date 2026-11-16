@@ -39,6 +39,7 @@
 | 1768 | [Merge Strings Alternately](./1768-merge-strings-alternately/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 1991 | [Find the Middle Index in Array](./1991-find-the-middle-index-in-array/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 2089 | [Find Target Indices After Sorting Array](./2089-find-target-indices-after-sorting-array/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
+| 2243 | [Calculate Digit Sum of a String](./2243-calculate-digit-sum-of-a-string/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 2409 | [Count Days Spent Together](./2409-count-days-spent-together/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 2574 | [Left and Right Sum Differences](./2574-left-and-right-sum-differences/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 2824 | [Count Pairs Whose Sum is Less than Target](./2824-count-pairs-whose-sum-is-less-than-target/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
@@ -318,6 +319,14 @@
 | [486. Predict the Winner](./0486-predict-the-winner/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [509. Fibonacci Number](./0509-fibonacci-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
+<a id="tag-simulation"></a>
+
+### Simulation (1)
+
+| Problem | Difficulty |
+|---|---|
+| [2243. Calculate Digit Sum of a String](./2243-calculate-digit-sum-of-a-string/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+
 <a id="tag-sliding-window"></a>
 
 ### Sliding Window (2)
@@ -339,7 +348,7 @@
 
 <a id="tag-string"></a>
 
-### String (6)
+### String (7)
 
 | Problem | Difficulty |
 |---|---|
@@ -348,6 +357,7 @@
 | [345. Reverse Vowels of a String](./0345-reverse-vowels-of-a-string/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [392. Is Subsequence](./0392-is-subsequence/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1768. Merge Strings Alternately](./1768-merge-strings-alternately/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [2243. Calculate Digit Sum of a String](./2243-calculate-digit-sum-of-a-string/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2409. Count Days Spent Together](./2409-count-days-spent-together/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
 <a id="tag-tree"></a>
