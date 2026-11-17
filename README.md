@@ -26,6 +26,7 @@
 | 367 | [Valid Perfect Square](./0367-valid-perfect-square/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 374 | [Guess Number Higher or Lower](./0374-guess-number-higher-or-lower/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 392 | [Is Subsequence](./0392-is-subsequence/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
+| 441 | [Arranging Coins](./0441-arranging-coins/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 486 | [Predict the Winner](./0486-predict-the-winner/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 509 | [Fibonacci Number](./0509-fibonacci-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 605 | [Can Place Flowers](./0605-can-place-flowers/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
@@ -101,7 +102,7 @@
 
 <a id="tag-binary-search"></a>
 
-### Binary Search (12)
+### Binary Search (13)
 
 | Problem | Difficulty |
 |---|---|
@@ -112,6 +113,7 @@
 | [349. Intersection of Two Arrays](./0349-intersection-of-two-arrays/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [367. Valid Perfect Square](./0367-valid-perfect-square/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [374. Guess Number Higher or Lower](./0374-guess-number-higher-or-lower/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [441. Arranging Coins](./0441-arranging-coins/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [704. Binary Search](./0704-binary-search/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [744. Find Smallest Letter Greater Than Target](./0744-find-smallest-letter-greater-than-target/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1351. Count Negative Numbers in a Sorted Matrix](./1351-count-negative-numbers-in-a-sorted-matrix/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
@@ -255,7 +257,7 @@
 
 <a id="tag-math"></a>
 
-### Math (11)
+### Math (12)
 
 | Problem | Difficulty |
 |---|---|
@@ -263,6 +265,7 @@
 | [69. Sqrt(x)](./0069-sqrtx/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [70. Climbing Stairs](./0070-climbing-stairs/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [367. Valid Perfect Square](./0367-valid-perfect-square/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [441. Arranging Coins](./0441-arranging-coins/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [486. Predict the Winner](./0486-predict-the-winner/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [509. Fibonacci Number](./0509-fibonacci-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1025. Divisor Game](./1025-divisor-game/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
