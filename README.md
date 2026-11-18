@@ -51,6 +51,7 @@
 | 3693 | [Climbing Stairs II](./3693-climbing-stairs-ii/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3751 | [Total Waviness of Numbers in Range I](./3751-total-waviness-of-numbers-in-range-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3789 | [Minimum Cost to Acquire Required Items](./3789-minimum-cost-to-acquire-required-items/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
+| 3870 | [Count Commas in Range](./3870-count-commas-in-range/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 3882 | [Minimum XOR Path in a Grid](./3882-minimum-xor-path-in-a-grid/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3942 | [Minimum Operations to Sort a Permutation](./3942-minimum-operations-to-sort-a-permutation/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3963 | [Create Grid With Exactly One Path](./3963-create-grid-with-exactly-one-path/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
@@ -257,7 +258,7 @@
 
 <a id="tag-math"></a>
 
-### Math (12)
+### Math (13)
 
 | Problem | Difficulty |
 |---|---|
@@ -272,6 +273,7 @@
 | [2409. Count Days Spent Together](./2409-count-days-spent-together/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3751. Total Waviness of Numbers in Range I](./3751-total-waviness-of-numbers-in-range-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3789. Minimum Cost to Acquire Required Items](./3789-minimum-cost-to-acquire-required-items/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
+| [3870. Count Commas in Range](./3870-count-commas-in-range/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3988. Create Grid With Exactly K Paths I](./3988-create-grid-with-exactly-k-paths-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 
 <a id="tag-matrix"></a>
