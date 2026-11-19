@@ -8,9 +8,9 @@
 | Topics | [Array](../README.md#tag-array), [Greedy](../README.md#tag-greedy), [Sorting](../README.md#tag-sorting) |
 | Language | C++ |
 | Status | Accepted |
-| Time Spent | 20m 16s |
+| Time Spent | 2m 48s |
 | Attempts | 1st try (Clean AC) |
-| Synced | 2026-11-19T15:06:56.732Z |
+| Synced | 2026-11-19T15:15:12.890Z |
 
 ---
 
@@ -77,4 +77,11 @@
 [`minimum-score-by-changing-two-elements-math.cpp`](./minimum-score-by-changing-two-elements-math.cpp)
 
 - **Time**: `O(N log N)`
+- **Space**: `O(1)`
+
+### Array - k max min
+
+[`minimum-score-by-changing-two-elements-array-k-max-min.cpp`](./minimum-score-by-changing-two-elements-array-k-max-min.cpp)
+
+- **Time**: `O(N)`
 - **Space**: `O(1)`
