@@ -43,6 +43,7 @@
 | 2089 | [Find Target Indices After Sorting Array](./2089-find-target-indices-after-sorting-array/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 2243 | [Calculate Digit Sum of a String](./2243-calculate-digit-sum-of-a-string/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 2409 | [Count Days Spent Together](./2409-count-days-spent-together/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
+| 2567 | [Minimum Score by Changing Two Elements](./2567-minimum-score-by-changing-two-elements/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 2574 | [Left and Right Sum Differences](./2574-left-and-right-sum-differences/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 2824 | [Count Pairs Whose Sum is Less than Target](./2824-count-pairs-whose-sum-is-less-than-target/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 2879 | [Display the First Three Rows](./2879-display-the-first-three-rows/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | Python3 |
@@ -62,7 +63,7 @@
 
 <a id="tag-array"></a>
 
-### Array (26)
+### Array (27)
 
 | Problem | Difficulty |
 |---|---|
@@ -84,6 +85,7 @@
 | [1732. Find the Highest Altitude](./1732-find-the-highest-altitude/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1991. Find the Middle Index in Array](./1991-find-the-middle-index-in-array/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2089. Find Target Indices After Sorting Array](./2089-find-target-indices-after-sorting-array/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [2567. Minimum Score by Changing Two Elements](./2567-minimum-score-by-changing-two-elements/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [2574. Left and Right Sum Differences](./2574-left-and-right-sum-differences/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2824. Count Pairs Whose Sum is Less than Target](./2824-count-pairs-whose-sum-is-less-than-target/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](./3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
@@ -215,12 +217,13 @@
 
 <a id="tag-greedy"></a>
 
-### Greedy (3)
+### Greedy (4)
 
 | Problem | Difficulty |
 |---|---|
 | [11. Container With Most Water](./0011-container-with-most-water/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [605. Can Place Flowers](./0605-can-place-flowers/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [2567. Minimum Score by Changing Two Elements](./2567-minimum-score-by-changing-two-elements/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3789. Minimum Cost to Acquire Required Items](./3789-minimum-cost-to-acquire-required-items/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 
 <a id="tag-hash-table"></a>
@@ -355,12 +358,13 @@
 
 <a id="tag-sorting"></a>
 
-### Sorting (3)
+### Sorting (4)
 
 | Problem | Difficulty |
 |---|---|
 | [349. Intersection of Two Arrays](./0349-intersection-of-two-arrays/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2089. Find Target Indices After Sorting Array](./2089-find-target-indices-after-sorting-array/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [2567. Minimum Score by Changing Two Elements](./2567-minimum-score-by-changing-two-elements/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [2824. Count Pairs Whose Sum is Less than Target](./2824-count-pairs-whose-sum-is-less-than-target/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
 <a id="tag-string"></a>
