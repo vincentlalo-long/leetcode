@@ -36,6 +36,7 @@
 | 746 | [Min Cost Climbing Stairs](./0746-min-cost-climbing-stairs/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 1025 | [Divisor Game](./1025-divisor-game/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](./1351-count-negative-numbers-in-a-sorted-matrix/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
+| 1352 | [Product of the Last K Numbers](./1352-product-of-the-last-k-numbers/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 1431 | [Kids With the Greatest Number of Candies](./1431-kids-with-the-greatest-number-of-candies/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 1732 | [Find the Highest Altitude](./1732-find-the-highest-altitude/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 1768 | [Merge Strings Alternately](./1768-merge-strings-alternately/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
@@ -64,7 +65,7 @@
 
 <a id="tag-array"></a>
 
-### Array (27)
+### Array (28)
 
 | Problem | Difficulty |
 |---|---|
@@ -82,6 +83,7 @@
 | [744. Find Smallest Letter Greater Than Target](./0744-find-smallest-letter-greater-than-target/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [746. Min Cost Climbing Stairs](./0746-min-cost-climbing-stairs/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1351. Count Negative Numbers in a Sorted Matrix](./1351-count-negative-numbers-in-a-sorted-matrix/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [1352. Product of the Last K Numbers](./1352-product-of-the-last-k-numbers/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [1431. Kids With the Greatest Number of Candies](./1431-kids-with-the-greatest-number-of-candies/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1732. Find the Highest Altitude](./1732-find-the-highest-altitude/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1991. Find the Middle Index in Array](./1991-find-the-middle-index-in-array/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
@@ -173,6 +175,14 @@
 |---|---|
 | [3988. Create Grid With Exactly K Paths I](./3988-create-grid-with-exactly-k-paths-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 
+<a id="tag-data-stream"></a>
+
+### Data Stream (1)
+
+| Problem | Difficulty |
+|---|---|
+| [1352. Product of the Last K Numbers](./1352-product-of-the-last-k-numbers/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
+
 <a id="tag-depth-first-search"></a>
 
 ### Depth-First Search (1)
@@ -180,6 +190,14 @@
 | Problem | Difficulty |
 |---|---|
 | [100. Same Tree](./0100-same-tree/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+
+<a id="tag-design"></a>
+
+### Design (1)
+
+| Problem | Difficulty |
+|---|---|
+| [1352. Product of the Last K Numbers](./1352-product-of-the-last-k-numbers/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 
 <a id="tag-dynamic-programming"></a>
 
@@ -263,7 +281,7 @@
 
 <a id="tag-math"></a>
 
-### Math (13)
+### Math (14)
 
 | Problem | Difficulty |
 |---|---|
@@ -275,6 +293,7 @@
 | [486. Predict the Winner](./0486-predict-the-winner/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [509. Fibonacci Number](./0509-fibonacci-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1025. Divisor Game](./1025-divisor-game/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [1352. Product of the Last K Numbers](./1352-product-of-the-last-k-numbers/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [2409. Count Days Spent Together](./2409-count-days-spent-together/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3751. Total Waviness of Numbers in Range I](./3751-total-waviness-of-numbers-in-range-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3789. Minimum Cost to Acquire Required Items](./3789-minimum-cost-to-acquire-required-items/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
@@ -318,13 +337,14 @@
 
 <a id="tag-prefix-sum"></a>
 
-### Prefix Sum (7)
+### Prefix Sum (8)
 
 | Problem | Difficulty |
 |---|---|
 | [209. Minimum Size Subarray Sum](./0209-minimum-size-subarray-sum/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [238. Product of Array Except Self](./0238-product-of-array-except-self/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [724. Find Pivot Index](./0724-find-pivot-index/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [1352. Product of the Last K Numbers](./1352-product-of-the-last-k-numbers/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [1732. Find the Highest Altitude](./1732-find-the-highest-altitude/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1991. Find the Middle Index in Array](./1991-find-the-middle-index-in-array/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2574. Left and Right Sum Differences](./2574-left-and-right-sum-differences/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
