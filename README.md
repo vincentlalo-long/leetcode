@@ -52,6 +52,7 @@
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](./2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 3364 | [Minimum Positive Sum Subarray](./3364-minimum-positive-sum-subarray/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
+| 3411 | [Maximum Subarray With Equal Products](./3411-maximum-subarray-with-equal-products/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 3693 | [Climbing Stairs II](./3693-climbing-stairs-ii/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3751 | [Total Waviness of Numbers in Range I](./3751-total-waviness-of-numbers-in-range-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3789 | [Minimum Cost to Acquire Required Items](./3789-minimum-cost-to-acquire-required-items/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
@@ -65,7 +66,7 @@
 
 <a id="tag-array"></a>
 
-### Array (28)
+### Array (29)
 
 | Problem | Difficulty |
 |---|---|
@@ -93,6 +94,7 @@
 | [2824. Count Pairs Whose Sum is Less than Target](./2824-count-pairs-whose-sum-is-less-than-target/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray](./3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3364. Minimum Positive Sum Subarray](./3364-minimum-positive-sum-subarray/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [3411. Maximum Subarray With Equal Products](./3411-maximum-subarray-with-equal-products/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3693. Climbing Stairs II](./3693-climbing-stairs-ii/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3882. Minimum XOR Path in a Grid](./3882-minimum-xor-path-in-a-grid/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3942. Minimum Operations to Sort a Permutation](./3942-minimum-operations-to-sort-a-permutation/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
@@ -219,10 +221,11 @@
 
 <a id="tag-enumeration"></a>
 
-### Enumeration (1)
+### Enumeration (2)
 
 | Problem | Difficulty |
 |---|---|
+| [3411. Maximum Subarray With Equal Products](./3411-maximum-subarray-with-equal-products/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3751. Total Waviness of Numbers in Range I](./3751-total-waviness-of-numbers-in-range-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 
 <a id="tag-game-theory"></a>
@@ -281,7 +284,7 @@
 
 <a id="tag-math"></a>
 
-### Math (14)
+### Math (15)
 
 | Problem | Difficulty |
 |---|---|
@@ -295,6 +298,7 @@
 | [1025. Divisor Game](./1025-divisor-game/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1352. Product of the Last K Numbers](./1352-product-of-the-last-k-numbers/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [2409. Count Days Spent Together](./2409-count-days-spent-together/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [3411. Maximum Subarray With Equal Products](./3411-maximum-subarray-with-equal-products/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3751. Total Waviness of Numbers in Range I](./3751-total-waviness-of-numbers-in-range-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3789. Minimum Cost to Acquire Required Items](./3789-minimum-cost-to-acquire-required-items/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3870. Count Commas in Range](./3870-count-commas-in-range/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
@@ -335,6 +339,14 @@
 |---|---|
 | [69. Sqrt(x)](./0069-sqrtx/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
+<a id="tag-number-theory"></a>
+
+### Number Theory (1)
+
+| Problem | Difficulty |
+|---|---|
+| [3411. Maximum Subarray With Equal Products](./3411-maximum-subarray-with-equal-products/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+
 <a id="tag-prefix-sum"></a>
 
 ### Prefix Sum (8)
@@ -370,12 +382,13 @@
 
 <a id="tag-sliding-window"></a>
 
-### Sliding Window (2)
+### Sliding Window (3)
 
 | Problem | Difficulty |
 |---|---|
 | [209. Minimum Size Subarray Sum](./0209-minimum-size-subarray-sum/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3364. Minimum Positive Sum Subarray](./3364-minimum-positive-sum-subarray/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [3411. Maximum Subarray With Equal Products](./3411-maximum-subarray-with-equal-products/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
 <a id="tag-sorting"></a>
 
