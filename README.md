@@ -59,6 +59,7 @@
 | 3789 | [Minimum Cost to Acquire Required Items](./3789-minimum-cost-to-acquire-required-items/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3870 | [Count Commas in Range](./3870-count-commas-in-range/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 3882 | [Minimum XOR Path in a Grid](./3882-minimum-xor-path-in-a-grid/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
+| 3934 | [Smallest Unique Subarray](./3934-smallest-unique-subarray/README.md) | ![Hard](https://img.shields.io/badge/difficulty-Hard-d73a49?style=flat-square) | C++ |
 | 3942 | [Minimum Operations to Sort a Permutation](./3942-minimum-operations-to-sort-a-permutation/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3963 | [Create Grid With Exactly One Path](./3963-create-grid-with-exactly-one-path/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 3988 | [Create Grid With Exactly K Paths I](./3988-create-grid-with-exactly-k-paths-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
@@ -67,7 +68,7 @@
 
 <a id="tag-array"></a>
 
-### Array (30)
+### Array (31)
 
 | Problem | Difficulty |
 |---|---|
@@ -99,6 +100,7 @@
 | [3411. Maximum Subarray With Equal Products](./3411-maximum-subarray-with-equal-products/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3693. Climbing Stairs II](./3693-climbing-stairs-ii/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3882. Minimum XOR Path in a Grid](./3882-minimum-xor-path-in-a-grid/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
+| [3934. Smallest Unique Subarray](./3934-smallest-unique-subarray/README.md) | ![Hard](https://img.shields.io/badge/difficulty-Hard-d73a49?style=flat-square) |
 | [3942. Minimum Operations to Sort a Permutation](./3942-minimum-operations-to-sort-a-permutation/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3988. Create Grid With Exactly K Paths I](./3988-create-grid-with-exactly-k-paths-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 
@@ -114,7 +116,7 @@
 
 <a id="tag-binary-search"></a>
 
-### Binary Search (13)
+### Binary Search (14)
 
 | Problem | Difficulty |
 |---|---|
@@ -131,6 +133,7 @@
 | [1351. Count Negative Numbers in a Sorted Matrix](./1351-count-negative-numbers-in-a-sorted-matrix/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2089. Find Target Indices After Sorting Array](./2089-find-target-indices-after-sorting-array/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2824. Count Pairs Whose Sum is Less than Target](./2824-count-pairs-whose-sum-is-less-than-target/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [3934. Smallest Unique Subarray](./3934-smallest-unique-subarray/README.md) | ![Hard](https://img.shields.io/badge/difficulty-Hard-d73a49?style=flat-square) |
 
 <a id="tag-binary-tree"></a>
 
@@ -254,14 +257,23 @@
 | [2567. Minimum Score by Changing Two Elements](./2567-minimum-score-by-changing-two-elements/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3789. Minimum Cost to Acquire Required Items](./3789-minimum-cost-to-acquire-required-items/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 
+<a id="tag-hash-function"></a>
+
+### Hash Function (1)
+
+| Problem | Difficulty |
+|---|---|
+| [3934. Smallest Unique Subarray](./3934-smallest-unique-subarray/README.md) | ![Hard](https://img.shields.io/badge/difficulty-Hard-d73a49?style=flat-square) |
+
 <a id="tag-hash-table"></a>
 
-### Hash Table (2)
+### Hash Table (3)
 
 | Problem | Difficulty |
 |---|---|
 | [17. Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [349. Intersection of Two Arrays](./0349-intersection-of-two-arrays/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [3934. Smallest Unique Subarray](./3934-smallest-unique-subarray/README.md) | ![Hard](https://img.shields.io/badge/difficulty-Hard-d73a49?style=flat-square) |
 
 <a id="tag-impartial-game"></a>
 
@@ -379,6 +391,14 @@
 | [486. Predict the Winner](./0486-predict-the-winner/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [509. Fibonacci Number](./0509-fibonacci-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
+<a id="tag-rolling-hash"></a>
+
+### Rolling Hash (1)
+
+| Problem | Difficulty |
+|---|---|
+| [3934. Smallest Unique Subarray](./3934-smallest-unique-subarray/README.md) | ![Hard](https://img.shields.io/badge/difficulty-Hard-d73a49?style=flat-square) |
+
 <a id="tag-simulation"></a>
 
 ### Simulation (1)
@@ -423,6 +443,14 @@
 | [2243. Calculate Digit Sum of a String](./2243-calculate-digit-sum-of-a-string/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2409. Count Days Spent Together](./2409-count-days-spent-together/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2914. Minimum Number of Changes to Make Binary String Beautiful](./2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
+
+<a id="tag-suffix-array"></a>
+
+### Suffix Array (1)
+
+| Problem | Difficulty |
+|---|---|
+| [3934. Smallest Unique Subarray](./3934-smallest-unique-subarray/README.md) | ![Hard](https://img.shields.io/badge/difficulty-Hard-d73a49?style=flat-square) |
 
 <a id="tag-tree"></a>
 
