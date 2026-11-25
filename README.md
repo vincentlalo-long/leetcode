@@ -57,6 +57,7 @@
 | 3693 | [Climbing Stairs II](./3693-climbing-stairs-ii/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3751 | [Total Waviness of Numbers in Range I](./3751-total-waviness-of-numbers-in-range-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3789 | [Minimum Cost to Acquire Required Items](./3789-minimum-cost-to-acquire-required-items/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
+| 3857 | [Minimum Cost to Split into Ones](./3857-minimum-cost-to-split-into-ones/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3870 | [Count Commas in Range](./3870-count-commas-in-range/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 3882 | [Minimum XOR Path in a Grid](./3882-minimum-xor-path-in-a-grid/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3934 | [Smallest Unique Subarray](./3934-smallest-unique-subarray/README.md) | ![Hard](https://img.shields.io/badge/difficulty-Hard-d73a49?style=flat-square) | C++ |
@@ -211,7 +212,7 @@
 
 <a id="tag-dynamic-programming"></a>
 
-### Dynamic Programming (11)
+### Dynamic Programming (12)
 
 | Problem | Difficulty |
 |---|---|
@@ -225,6 +226,7 @@
 | [1025. Divisor Game](./1025-divisor-game/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3693. Climbing Stairs II](./3693-climbing-stairs-ii/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3751. Total Waviness of Numbers in Range I](./3751-total-waviness-of-numbers-in-range-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
+| [3857. Minimum Cost to Split into Ones](./3857-minimum-cost-to-split-into-ones/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3882. Minimum XOR Path in a Grid](./3882-minimum-xor-path-in-a-grid/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 
 <a id="tag-enumeration"></a>
@@ -302,7 +304,7 @@
 
 <a id="tag-math"></a>
 
-### Math (16)
+### Math (17)
 
 | Problem | Difficulty |
 |---|---|
@@ -320,6 +322,7 @@
 | [3411. Maximum Subarray With Equal Products](./3411-maximum-subarray-with-equal-products/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3751. Total Waviness of Numbers in Range I](./3751-total-waviness-of-numbers-in-range-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3789. Minimum Cost to Acquire Required Items](./3789-minimum-cost-to-acquire-required-items/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
+| [3857. Minimum Cost to Split into Ones](./3857-minimum-cost-to-split-into-ones/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3870. Count Commas in Range](./3870-count-commas-in-range/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3988. Create Grid With Exactly K Paths I](./3988-create-grid-with-exactly-k-paths-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 
