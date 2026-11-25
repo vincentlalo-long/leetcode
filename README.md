@@ -40,6 +40,7 @@
 | 1431 | [Kids With the Greatest Number of Candies](./1431-kids-with-the-greatest-number-of-candies/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 1732 | [Find the Highest Altitude](./1732-find-the-highest-altitude/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 1768 | [Merge Strings Alternately](./1768-merge-strings-alternately/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
+| 1863 | [Sum of All Subset XOR Totals](./1863-sum-of-all-subset-xor-totals/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 1991 | [Find the Middle Index in Array](./1991-find-the-middle-index-in-array/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 2089 | [Find Target Indices After Sorting Array](./2089-find-target-indices-after-sorting-array/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 2124 | [Check if All A's Appears Before All B's](./2124-check-if-all-as-appears-before-all-bs/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
@@ -66,7 +67,7 @@
 
 <a id="tag-array"></a>
 
-### Array (29)
+### Array (30)
 
 | Problem | Difficulty |
 |---|---|
@@ -87,6 +88,7 @@
 | [1352. Product of the Last K Numbers](./1352-product-of-the-last-k-numbers/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [1431. Kids With the Greatest Number of Candies](./1431-kids-with-the-greatest-number-of-candies/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1732. Find the Highest Altitude](./1732-find-the-highest-altitude/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [1863. Sum of All Subset XOR Totals](./1863-sum-of-all-subset-xor-totals/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1991. Find the Middle Index in Array](./1991-find-the-middle-index-in-array/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2089. Find Target Indices After Sorting Array](./2089-find-target-indices-after-sorting-array/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2567. Minimum Score by Changing Two Elements](./2567-minimum-score-by-changing-two-elements/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
@@ -102,12 +104,13 @@
 
 <a id="tag-backtracking"></a>
 
-### Backtracking (2)
+### Backtracking (3)
 
 | Problem | Difficulty |
 |---|---|
 | [17. Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [22. Generate Parentheses](./0022-generate-parentheses/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
+| [1863. Sum of All Subset XOR Totals](./1863-sum-of-all-subset-xor-totals/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
 <a id="tag-binary-search"></a>
 
@@ -139,10 +142,11 @@
 
 <a id="tag-bit-manipulation"></a>
 
-### Bit Manipulation (1)
+### Bit Manipulation (2)
 
 | Problem | Difficulty |
 |---|---|
+| [1863. Sum of All Subset XOR Totals](./1863-sum-of-all-subset-xor-totals/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3882. Minimum XOR Path in a Grid](./3882-minimum-xor-path-in-a-grid/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 
 <a id="tag-bracket-sequences"></a>
@@ -171,10 +175,11 @@
 
 <a id="tag-combinatorics"></a>
 
-### Combinatorics (1)
+### Combinatorics (2)
 
 | Problem | Difficulty |
 |---|---|
+| [1863. Sum of All Subset XOR Totals](./1863-sum-of-all-subset-xor-totals/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3988. Create Grid With Exactly K Paths I](./3988-create-grid-with-exactly-k-paths-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 
 <a id="tag-data-stream"></a>
@@ -221,10 +226,11 @@
 
 <a id="tag-enumeration"></a>
 
-### Enumeration (2)
+### Enumeration (3)
 
 | Problem | Difficulty |
 |---|---|
+| [1863. Sum of All Subset XOR Totals](./1863-sum-of-all-subset-xor-totals/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3411. Maximum Subarray With Equal Products](./3411-maximum-subarray-with-equal-products/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3751. Total Waviness of Numbers in Range I](./3751-total-waviness-of-numbers-in-range-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 
@@ -284,7 +290,7 @@
 
 <a id="tag-math"></a>
 
-### Math (15)
+### Math (16)
 
 | Problem | Difficulty |
 |---|---|
@@ -297,6 +303,7 @@
 | [509. Fibonacci Number](./0509-fibonacci-number/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1025. Divisor Game](./1025-divisor-game/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [1352. Product of the Last K Numbers](./1352-product-of-the-last-k-numbers/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
+| [1863. Sum of All Subset XOR Totals](./1863-sum-of-all-subset-xor-totals/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2409. Count Days Spent Together](./2409-count-days-spent-together/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3411. Maximum Subarray With Equal Products](./3411-maximum-subarray-with-equal-products/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3751. Total Waviness of Numbers in Range I](./3751-total-waviness-of-numbers-in-range-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
