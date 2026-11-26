@@ -52,6 +52,7 @@
 | 2879 | [Display the First Three Rows](./2879-display-the-first-three-rows/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | Python3 |
 | 2914 | [Minimum Number of Changes to Make Binary String Beautiful](./2914-minimum-number-of-changes-to-make-binary-string-beautiful/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](./3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
+| 3360 | [Stone Removal Game](./3360-stone-removal-game/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 3364 | [Minimum Positive Sum Subarray](./3364-minimum-positive-sum-subarray/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 3411 | [Maximum Subarray With Equal Products](./3411-maximum-subarray-with-equal-products/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 3693 | [Climbing Stairs II](./3693-climbing-stairs-ii/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
@@ -304,7 +305,7 @@
 
 <a id="tag-math"></a>
 
-### Math (17)
+### Math (18)
 
 | Problem | Difficulty |
 |---|---|
@@ -319,6 +320,7 @@
 | [1352. Product of the Last K Numbers](./1352-product-of-the-last-k-numbers/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [1863. Sum of All Subset XOR Totals](./1863-sum-of-all-subset-xor-totals/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2409. Count Days Spent Together](./2409-count-days-spent-together/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [3360. Stone Removal Game](./3360-stone-removal-game/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3411. Maximum Subarray With Equal Products](./3411-maximum-subarray-with-equal-products/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [3751. Total Waviness of Numbers in Range I](./3751-total-waviness-of-numbers-in-range-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3789. Minimum Cost to Acquire Required Items](./3789-minimum-cost-to-acquire-required-items/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
@@ -404,11 +406,12 @@
 
 <a id="tag-simulation"></a>
 
-### Simulation (1)
+### Simulation (2)
 
 | Problem | Difficulty |
 |---|---|
 | [2243. Calculate Digit Sum of a String](./2243-calculate-digit-sum-of-a-string/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
+| [3360. Stone Removal Game](./3360-stone-removal-game/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 
 <a id="tag-sliding-window"></a>
 
