@@ -63,6 +63,7 @@
 | 3882 | [Minimum XOR Path in a Grid](./3882-minimum-xor-path-in-a-grid/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3934 | [Smallest Unique Subarray](./3934-smallest-unique-subarray/README.md) | ![Hard](https://img.shields.io/badge/difficulty-Hard-d73a49?style=flat-square) | C++ |
 | 3942 | [Minimum Operations to Sort a Permutation](./3942-minimum-operations-to-sort-a-permutation/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
+| 3946 | [Maximum Number of Items From Sale I](./3946-maximum-number-of-items-from-sale-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 | 3963 | [Create Grid With Exactly One Path](./3963-create-grid-with-exactly-one-path/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) | C++ |
 | 3988 | [Create Grid With Exactly K Paths I](./3988-create-grid-with-exactly-k-paths-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) | C++ |
 
@@ -70,7 +71,7 @@
 
 <a id="tag-array"></a>
 
-### Array (31)
+### Array (32)
 
 | Problem | Difficulty |
 |---|---|
@@ -104,6 +105,7 @@
 | [3882. Minimum XOR Path in a Grid](./3882-minimum-xor-path-in-a-grid/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3934. Smallest Unique Subarray](./3934-smallest-unique-subarray/README.md) | ![Hard](https://img.shields.io/badge/difficulty-Hard-d73a49?style=flat-square) |
 | [3942. Minimum Operations to Sort a Permutation](./3942-minimum-operations-to-sort-a-permutation/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
+| [3946. Maximum Number of Items From Sale I](./3946-maximum-number-of-items-from-sale-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3988. Create Grid With Exactly K Paths I](./3988-create-grid-with-exactly-k-paths-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 
 <a id="tag-backtracking"></a>
@@ -213,7 +215,7 @@
 
 <a id="tag-dynamic-programming"></a>
 
-### Dynamic Programming (12)
+### Dynamic Programming (13)
 
 | Problem | Difficulty |
 |---|---|
@@ -229,6 +231,7 @@
 | [3751. Total Waviness of Numbers in Range I](./3751-total-waviness-of-numbers-in-range-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3857. Minimum Cost to Split into Ones](./3857-minimum-cost-to-split-into-ones/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3882. Minimum XOR Path in a Grid](./3882-minimum-xor-path-in-a-grid/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
+| [3946. Maximum Number of Items From Sale I](./3946-maximum-number-of-items-from-sale-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 
 <a id="tag-enumeration"></a>
 
@@ -251,7 +254,7 @@
 
 <a id="tag-greedy"></a>
 
-### Greedy (4)
+### Greedy (5)
 
 | Problem | Difficulty |
 |---|---|
@@ -259,6 +262,7 @@
 | [605. Can Place Flowers](./0605-can-place-flowers/README.md) | ![Easy](https://img.shields.io/badge/difficulty-Easy-2ea44f?style=flat-square) |
 | [2567. Minimum Score by Changing Two Elements](./2567-minimum-score-by-changing-two-elements/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 | [3789. Minimum Cost to Acquire Required Items](./3789-minimum-cost-to-acquire-required-items/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
+| [3946. Maximum Number of Items From Sale I](./3946-maximum-number-of-items-from-sale-i/README.md) | ![Medium](https://img.shields.io/badge/difficulty-Medium-f0ad4e?style=flat-square) |
 
 <a id="tag-hash-function"></a>
 
